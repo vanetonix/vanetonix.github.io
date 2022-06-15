@@ -1,0 +1,22 @@
+
+.imagen{
+    width: 650px;
+    height: 650px;
+    border-style: groove black 20px;   
+
+}
+h1{
+    text-align: center;
+    text-decoration: dashed;
+}
+h2{
+    text-align: center;
+}
+
+.inicio{
+    text-align: center;
+}
+
+.card{
+    text-align: center;
+}
